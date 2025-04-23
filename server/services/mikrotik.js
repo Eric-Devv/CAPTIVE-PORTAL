@@ -1,7 +1,8 @@
-import { RouterOSAPI } from 'mikronode';
+import mikronode from 'mikronode';
 import dotenv from 'dotenv';
 import crypto from 'crypto';
 
+const { RouterOSAPI } = mikronode;
 dotenv.config();
 
 // Environment variables
