@@ -22,7 +22,7 @@ A comprehensive WiFi Captive Portal solution with M-Pesa Daraja API integration 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/wifi-portal-mpesa.git
+git clone https://github.com/Eric-Devv/CAPTIVE-PORTAL.git
 cd wifi-portal-mpesa
 ```
 
